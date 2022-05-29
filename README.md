@@ -63,15 +63,21 @@ User : Entité exploité uniquement dans le cadre de la création du jeu de donn
 Acceuil / Parcourir les pétitions
 
 <li>Les pétitions récentes</li>
+
 ![image](https://user-images.githubusercontent.com/47324056/170893269-0372e709-fc5d-4c9b-af7e-94ebdf3522e6.png)
+
 <li>Les pétitions signés</li>
+
 ![image](https://user-images.githubusercontent.com/47324056/170893358-c4647182-448d-4f67-be7f-a90f9db78c8d.png)
 
 Mes petitions
 
 <li>Pétition(s) lancée(s)</li>
+
 ![image](https://user-images.githubusercontent.com/47324056/170893307-1c828cec-446e-4ac9-8cd5-81091526b1d4.png)
+
 <li>Pétition(s) signée(s)</li>
+
 ![image](https://user-images.githubusercontent.com/47324056/170893663-f4fd7618-7593-4797-8926-7bc16b8da16b.png)
 
 Créer une pétition
