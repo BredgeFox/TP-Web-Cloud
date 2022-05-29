@@ -11,7 +11,7 @@ Ce README à pour objectif de vous présenter les fonctions implémenté ainsi q
 Ce projet a été réalisé par BÉRANGER Grégoire et AUBERT Quentin.
 Face au diverses difficultés techniques que notre groupe et nos camarades avons rencontrés pour faire fonctionner la nouvelle API google `accounts.google.com/gsi/client` et au problèmes supplémentaire qu'elle posait (notament par rapport à la communication avec la parti API de l'application) par rapport au temps qu'il nous restait, à partir du moment ou nous avons tous eux connaissance d'un moyen de faire fonctionner l'api `apis.google.com/js/platform.js` (plus simple). Nous avons fait le choix de repartir d'un projet réaliser par un groupe d'étutiant de l'année 2021 (BARRY Boubacar, BOULID Hamza, HADJI Thiziri, NING Binbing) dont le git est accessible avec le lien suivant https://github.com/thiziri-HADJI/petitions. 
 
-##Liens
+## Liens
 Lien de l'application
 https://gregoire-quentin-wc.ew.r.appspot.com
 Lien menant à la création d'un jeu de données pour l'application (30 pétitions)
@@ -38,12 +38,12 @@ Permis les fonctionalités existantes sur l'application figure :
 
 
 
-##Performances
+## Performances
 
 Nous n'avons pas eu le temps de réaliser des tests de performance pertinent de le délai qu'il nous restais.
 Cependant nous pouvons indiquer que l'affichage des pages est chargé en moins d'une secondes mais que le chargement des données concernant ces pages peuvent prendre nettement plus de temps ce qui induis un problème de performance.
 
-##Entités présentes dans le datastore
+## Entités présentes dans le datastore
 
 Petition
 
@@ -82,7 +82,7 @@ Recherche de pétitions
 
 ![image](https://user-images.githubusercontent.com/47324056/170893689-c4b5b316-118e-41ca-8ff7-36741585052c.png)
 
-##Problèmes
+## Problèmes
 
 Parmis les problèmes que nous avons relevé figures:
 
@@ -91,7 +91,7 @@ Parmis les problèmes que nous avons relevé figures:
 <li>La présence de pétition qui n'ont jamais été signées parmis les pétitions signées de Parcourir les pétitions</li>
 <li>Une recherche très récelcitrante sur les mot clés</li>
 
-##Conclusion 
+## Conclusion 
 Ce projet nous a permis de prendre pleinement conscience des difficultés de déploiement d'une 
 application web.
 
